@@ -1,186 +1,185 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                     C H E A T N O T E S                     ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<div align="center">
+
+![Cheat Notes Banner](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Cheat%20Notes%20For%20Dummies&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Open-Source%20Cheat%20Sheets%20for%20Everyone&descSize=18&descAlignY=62&descColor=8b949e)
+
+[![GitHub Org Stars](https://img.shields.io/github/stars/cheatnotes?style=flat-square&logo=github&logoColor=white&color=181717&labelColor=181717&label=Stars)](https://github.com/cheatnotes)
+[![GitHub Followers](https://img.shields.io/github/followers/cheatnotes?style=flat-square&logo=github&logoColor=white&color=181717&labelColor=181717&label=Followers)](https://github.com/orgs/cheatnotes/followers)
+[![Repos](https://img.shields.io/badge/Repos-1000%2B-blue?style=flat-square&logo=github&logoColor=white&color=0969da&labelColor=0969da)](https://github.com/orgs/cheatnotes/repositories)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square&logo=opensourceinitiative&logoColor=white&color=238636&labelColor=238636)](https://opensource.org/licenses/MIT)
+[![Website](https://img.shields.io/badge/Website-cheatnotes.github.io-orange?style=flat-square&logo=githubpages&logoColor=white&color=fb8500&labelColor=fb8500)](https://cheatnotes.github.io)
+[![Email](https://img.shields.io/badge/Email-awjunaid@proton.me-blueviolet?style=flat-square&logo=protonmail&logoColor=white&color=6d28d9&labelColor=6d28d9)](mailto:awjunaid@proton.me)
+[![Maintained by](https://img.shields.io/badge/Maintained%20by-aw--junaid-red?style=flat-square&logo=github&logoColor=white&color=da3633&labelColor=da3633)](https://github.com/aw-junaid)
+
+</div>
+
+---
+
+## 📖 About
+
+**Cheat Notes For Dummies** is a growing open-source organization dedicated to creating the most comprehensive, beginner-friendly collection of technical cheat sheets on GitHub. We cover everything from Computer Science fundamentals and Mathematics to AI, Networking, Databases, Hardware, and beyond.
+
+> *"Learn fast. Reference faster. Build smarter."*
+
+Our goal is to reach **1,000+ repositories** — one cheat sheet for every major concept, tool, command, and technology in the modern tech stack.
+
+Whether you are:
+- 🎓 A **student** cramming for exams
+- 🔬 A **researcher** needing a quick syntax refresh
+- 💻 A **developer** who just can't remember that one flag
+- 🧑‍💼 A **professional** who wants a fast reference
+
+...this is your library.
+
+---
+
+## 🗂️ Categories
+
+| # | Category | Description |
+|---|----------|-------------|
+| 01 | 🗄️ [Databases](#️-databases) | SQL, NoSQL, ORMs, query optimization |
+| 02 | 💻 [Computer Science](#-computer-science) | Algorithms, data structures, complexity |
+| 03 | 🔢 [Mathematics](#-mathematics) | Linear algebra, calculus, discrete math |
+| 04 | 🤖 [Artificial Intelligence](#-artificial-intelligence) | ML, deep learning, NLP, LLMs |
+| 05 | 🌐 [Networking](#-networking) | TCP/IP, protocols, routing, tools |
+| 06 | 🔒 [Cybersecurity](#-cybersecurity) | Pentesting, hardening, tools |
+| 07 | 🐧 [Linux & OS](#-linux--os) | Commands, bash, system admin |
+| 08 | 🖥️ [Hardware](#️-hardware) | Architecture, components, embedded |
+| 09 | 🧑‍💻 [Programming Languages](#-programming-languages) | Python, C, C++, Rust, JS, Go, and more |
+| 10 | 🌍 [Web Development](#-web-development) | HTML, CSS, React, APIs, frameworks |
+| 11 | ☁️ [Cloud & DevOps](#️-cloud--devops) | AWS, Docker, Kubernetes, CI/CD |
+
+---
+
+## 🗄️ Databases
+
+| Repository | Description |
+|------------|-------------|
+| [sql-cheatsheet](https://github.com/cheatnotes/sql-cheatsheet) | Comprehensive SQL reference — from basic queries to advanced joins, subqueries, and window functions |
+
+---
+
+## 💻 Computer Science
+
+> *Repositories coming soon — contributions welcome!*
+
+Topics will include: algorithms, data structures, Big-O complexity, sorting, graph theory, recursion, dynamic programming, and more.
+
+---
+
+## 🔢 Mathematics
+
+> *Repositories coming soon — contributions welcome!*
+
+Topics will include: linear algebra, discrete mathematics, probability & statistics, calculus, number theory, and mathematical notation.
+
+---
+
+## 🤖 Artificial Intelligence
+
+> *Repositories coming soon — contributions welcome!*
+
+Topics will include: machine learning, deep learning, neural networks, NLP, computer vision, reinforcement learning, LLMs, prompt engineering.
+
+---
+
+## 🌐 Networking
+
+> *Repositories coming soon — contributions welcome!*
+
+Topics will include: OSI model, TCP/IP, DNS, HTTP/S, routing protocols, Wireshark, `nmap`, subnetting, firewall rules.
+
+---
+
+## 🔒 Cybersecurity
+
+> *Repositories coming soon — contributions welcome!*
+
+Topics will include: penetration testing, ethical hacking, OWASP Top 10, Metasploit, Nessus, CTF tools, forensics, and hardening guides.
+
+---
+
+## 🐧 Linux & OS
+
+> *Repositories coming soon — contributions welcome!*
+
+Topics will include: bash scripting, file system navigation, user management, `systemd`, `cron`, package managers, kernel basics.
+
+---
+
+## 🖥️ Hardware
+
+> *Repositories coming soon — contributions welcome!*
+
+Topics will include: CPU architecture, memory hierarchy, I/O systems, embedded systems, microcontrollers, circuit basics, Raspberry Pi.
+
+---
+
+## 🧑‍💻 Programming Languages
+
+> *Repositories coming soon — contributions welcome!*
+
+Languages covered will include: Python, C, C++, Rust, JavaScript, TypeScript, Go, Java, Kotlin, Dart, PHP, Ruby, R, Assembly, PowerShell, Bash.
+
+---
+
+## 🌍 Web Development
+
+> *Repositories coming soon — contributions welcome!*
+
+Topics will include: HTML5, CSS3, JavaScript DOM, REST APIs, GraphQL, React, Vue, Next.js, Express, authentication, and performance optimization.
+
+---
+
+## ☁️ Cloud & DevOps
+
+> *Repositories coming soon — contributions welcome!*
+
+Topics will include: AWS, Azure, GCP, Docker, Kubernetes, Terraform, Ansible, GitHub Actions, CI/CD pipelines, monitoring, and logging.
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions from everyone! Here's how to get started:
+
+1. **Fork** the repository you want to contribute to
+2. **Create a branch**: `git checkout -b feature/add-topic`
+3. **Add your cheat sheet** in Markdown (`.md`) format
+4. **Commit your changes**: `git commit -m "Add: topic cheat sheet"`
+5. **Push and open a Pull Request**
+
+**Contribution guidelines:**
+- Keep it concise — cheat sheets, not textbooks
+- Use clear Markdown formatting with code blocks
+- Include practical examples wherever possible
+- Credit original sources when applicable
+
+---
+
+## 📜 License
+
+All repositories in this organization are licensed under the **[MIT License](https://opensource.org/licenses/MIT)** unless stated otherwise.  
+Feel free to use, share, fork, and contribute.
+
+---
+
+## 🔗 Connect
 
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="CheatNotes Banner"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=24&pause=1200&color=00FF88&background=00000000&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Quick+Notes.+Smarter+You.;Cybersecurity+%7C+Linux+%7C+Programming+%7C+Networking;Open-Source+Technical+Knowledge+Hub" alt="Typing Animation"/>
-
-<br/>
-
-![Stars](https://img.shields.io/github/stars/yourusername/cheatnotes?style=flat-square&logo=github&logoColor=white&color=181717)
-![Forks](https://img.shields.io/github/forks/yourusername/cheatnotes?style=flat-square&logo=github&logoColor=white&color=181717)
-![License](https://img.shields.io/github/license/yourusername/cheatnotes?style=flat-square&logo=opensourceinitiative&logoColor=white&color=00aa66)
-![Contributions](https://img.shields.io/badge/Contributions-Welcome-00cc88?style=flat-square)
-![Markdown](https://img.shields.io/badge/Built%20With-Markdown-000000?style=flat-square&logo=markdown)
+[![Website](https://img.shields.io/static/v1?message=cheatnotes.github.io&logo=githubpages&label=&color=222222&logoColor=white&labelColor=222222&style=flat-square)](https://cheatnotes.github.io)
+[![GitHub](https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=181717&style=flat-square)](https://github.com/cheatnotes)
+[![Email](https://img.shields.io/static/v1?message=awjunaid@proton.me&logo=protonmail&label=&color=6D4AFF&logoColor=white&labelColor=6D4AFF&style=flat-square)](mailto:awjunaid@proton.me)
+[![aw-junaid](https://img.shields.io/static/v1?message=aw-junaid&logo=github&label=Maintained+by&color=da3633&logoColor=white&labelColor=da3633&style=flat-square)](https://github.com/aw-junaid)
 
 </div>
-
----
-
-# <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=99999&color=00FF88&background=FFFFFF00&center=false&vCenter=true&repeat=false&width=280&height=28&lines=%E2%96%BA+ABOUT" alt="label"/>
-
-> *"Knowledge becomes powerful when complexity becomes simple."*
-
-CheatNotes is a modern open-source collection of:
-- Cybersecurity cheat sheets
-- Linux references
-- Networking notes
-- Programming guides
-- Database commands
-- Developer resources
-- Technical quick references
-
-Designed for:
-- Students
-- Ethical Hackers
-- Developers
-- Researchers
-- Linux Users
-- IT Professionals
-
----
-
-# <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=99999&color=00FF88&background=FFFFFF00&center=false&vCenter=true&repeat=false&width=340&height=28&lines=%E2%96%BA+REPOSITORY+STRUCTURE" alt="label"/>
-
-```bash
-cheatnotes/
-│
-├── cybersecurity/
-│   ├── nmap.md
-│   ├── sqlmap.md
-│   ├── metasploit.md
-│   └── wireshark.md
-│
-├── linux/
-├── networking/
-├── programming/
-├── databases/
-├── cloud/
-├── osint/
-├── web-security/
-│
-├── assets/
-│   ├── banner.png
-│   ├── logo.png
-│   └── icons/
-│
-└── README.md
-```
-
----
-
-# <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=99999&color=00FF88&background=FFFFFF00&center=false&vCenter=true&repeat=false&width=260&height=28&lines=%E2%96%BA+FEATURES" alt="label"/>
-
-<table>
-<tr>
-<td width="50%">
-
-✅ Beginner Friendly  
-✅ Clean Markdown Formatting  
-✅ Quick References  
-✅ Command Examples  
-✅ Practical Usage  
-✅ Organized Categories  
-
-</td>
-<td width="50%">
-
-✅ Open Source  
-✅ SEO Optimized  
-✅ Community Driven  
-✅ Regular Updates  
-✅ Dark Theme Ready  
-✅ GitHub Friendly  
-
-</td>
-</tr>
-</table>
-
----
-
-# <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=99999&color=00FF88&background=FFFFFF00&center=false&vCenter=true&repeat=false&width=320&height=28&lines=%E2%96%BA+TECH+CATEGORIES" alt="label"/>
-
-<br/>
-
-<div align="left">
-
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=flat-square&logo=hackthebox&logoColor=00FF88)
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=FCC624)
-![Networking](https://img.shields.io/badge/Networking-000000?style=flat-square&logo=cisco&logoColor=1BA0D7)
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB)
-![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=mysql&logoColor=4479A1)
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032)
-![Cloud](https://img.shields.io/badge/Cloud-000000?style=flat-square&logo=icloud&logoColor=00CCFF)
-
-</div>
-
----
-
-# <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=99999&color=00FF88&background=FFFFFF00&center=false&vCenter=true&repeat=false&width=300&height=28&lines=%E2%96%BA+POPULAR+TOPICS" alt="label"/>
-
-| Category | Cheat Sheets |
-|---|---|
-| 🔐 Cybersecurity | Nmap · SQLMap · Burp Suite · Hydra |
-| 🐧 Linux | Commands · Bash · Permissions |
-| 🌐 Networking | TCP/IP · DNS · HTTP · Wireshark |
-| 💻 Programming | Python · C · JavaScript |
-| 🗄️ Databases | MySQL · PostgreSQL · MongoDB |
-
----
-
-# <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=99999&color=00FF88&background=FFFFFF00&center=false&vCenter=true&repeat=false&width=320&height=28&lines=%E2%96%BA+CONTRIBUTING" alt="label"/>
-
-```bash
-# Fork Repository
-# Clone Project
-
-git clone https://github.com/yourusername/cheatnotes.git
-
-# Create Branch
-git checkout -b feature-name
-
-# Commit Changes
-git commit -m "Added new cheat sheet"
-
-# Push Changes
-git push origin feature-name
-```
-
-Then open a Pull Request 🚀
-
----
-
-# <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=99999&color=00FF88&background=FFFFFF00&center=false&vCenter=true&repeat=false&width=280&height=28&lines=%E2%96%BA+GOALS" alt="label"/>
-
-- Build one of the largest technical cheat sheet repositories
-- Simplify cybersecurity learning
-- Create fast-access knowledge references
-- Help beginners learn complex topics faster
-
----
-
-# <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=99999&color=00FF88&background=FFFFFF00&center=false&vCenter=true&repeat=false&width=260&height=28&lines=%E2%96%BA+LICENSE" alt="label"/>
-
-This project is licensed under the MIT License.
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&pause=1400&color=FFFFFF&background=000000&center=true&vCenter=true&repeat=true&width=900&height=80&lines=Learn+Faster.;Build+Smarter.;Hack+Responsibly.;Welcome+to+CheatNotes." alt="Footer"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer)
 
-<br/>
-
-### ⭐ Star the repository if you find it useful.
+*Made with ❤️ for the community · Cheat Notes For Dummies © 2025–2026*
 
 </div>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                  E N D   O F   F I L E                     ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
